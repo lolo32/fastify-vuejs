@@ -1,4 +1,4 @@
-# fastify-vue
+# fastify-vuejs
 
 > A Vue.js project with webpack
 

@@ -1,5 +1,5 @@
 {
-  "name": "fastify-vuejs-template",
+  "name": "fastify-vuejs",
   "version": "1.0.0",
   "description": "Templating for VueJS",
   "private": true,
@@ -13,13 +13,13 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "bugs": {
-    "url": "https://github.com/lolo32/fastify-vuejs-template/issues"
+    "url": "https://github.com/lolo32/fastify-vuejs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lolo32/fastify-vuejs-template.git"
+    "url": "https://github.com/lolo32/fastify-vuejs.git"
   },
-  "homepage": "https://github.com/lolo32/fastify-vuejs-template.git#readme",
+  "homepage": "https://github.com/lolo32/fastify-vuejs.git#readme",
   "author": "Lolo_32",
   "license": "MIT",
   "keywords": [
