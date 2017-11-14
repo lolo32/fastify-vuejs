@@ -31,7 +31,7 @@ module.exports = {
       desiredCapabilities: {
         browserName: 'chrome',
         // chromeOptions: {
-        //   binary: 'C:\\Users\\Laurent\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe'
+        //   binary: '/path/to/your/chrome/binary'
         // },
         javascriptEnabled: true,
         acceptSslCerts: true
