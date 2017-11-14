@@ -1,7 +1,7 @@
 {
   "name": "fastify-vuejs",
   "version": "1.0.0",
-  "description": "Templating for VueJS",
+  "description": "Templating for VueJS, with webpack and Fastify",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

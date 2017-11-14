@@ -1,6 +1,6 @@
 # fastify-vuejs
 
-> A Vue.js project with webpack
+> A Vue.js project with webpack for Fastify
 
 ## Build Setup
 
